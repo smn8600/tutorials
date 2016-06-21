@@ -14,10 +14,12 @@ categories: powertrack
 5. Make sure the __Use Device Location Services__ switch is __on__, then tap __Save__ and __Done__.
 ![settings-settings][settings-settings]
 6. Tap on the __GetDB__ button located in the top navigation bar.  Wait until the GetDB operation is completed before proceding to the next step.
+![settings][settings]
 7. Tap on __Register__.
 8. The app is going to ask for your __username__ and __password__.  Use your first initial and last name for both your __username__ and __password__ (e.g. snordlund).  Tap __Register__, then dismiss the __Success__ message.  Tap __Done__, then tap __Done__ again.
 ![register][register]
 9. At this point, you should be back on the main login screen.  Use the same login credentials that you used to __Register__ and tap __Login__.
+![login][login]
 10. You should now be at the screen below, ready to enter a new timesheet.
 ![timecard][timecard]
 

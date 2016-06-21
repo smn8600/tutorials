@@ -4,7 +4,7 @@ title:  "Initial Powertrack Login/Setup"
 date:   2016-06-20 09:08:56 -0500
 categories: powertrack
 ---
-
+ 
 1. Download and open the [Powertrack](https://appsto.re/us/eD-mR.i) app from the iTunes App Store.
 2. Tap on the __settings icon__ located at the bottom-left of the main login screen.
 ![login]({{ site.ur }}/assets/login.png)

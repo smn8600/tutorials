@@ -10,7 +10,7 @@ categories: powertrack
 ![login][login]
 3. Tap on the __settings__ button on the top navigation bar.
 ![settings][settings]
-4. Fill in the __WAN Server Address:__ field, and the __LAN Server Address:__ field: time.kelso-burnett.com/pt_mobile
+4. Fill in the __WAN Server Address:__ field, and the __LAN Server Address:__ field with the address provided by the administrator.
 5. Make sure the __Use Device Location Services__ switch is __on__, then tap __Save__ and __Done__.
 ![settings-settings][settings-settings]
 6. Tap on the __GetDB__ button located in the top navigation bar.  Wait until the GetDB operation is completed before proceeding to the next step.

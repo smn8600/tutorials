@@ -9,7 +9,7 @@ categories: bluefolder
 2. Go to the iPhone ___Settings___![01-settings][01-settings]
 3. Go to ___Mail, Contacts, Calendars___![02-mail-con-cal][02-mail-con-cal]
 4. Go to your BlueFolder ___subscribed calendar___![03-bf-calendar][03-bf-calendar]
-5. Update the ___Server___ field with the url you copied from BlueFolder.
+5. Update the ___Server___ field with the url you copied from BlueFolder and hit ___done___.
 
 
 [00-bf-ical]: /assets/2016-08-01-BlueFolder-iCal-Address Update/00-bf-ical.png
